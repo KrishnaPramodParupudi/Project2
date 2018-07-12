@@ -1,0 +1,29 @@
+.main{
+    margin-left:20%;
+    margin-right:23%;
+}
+.top h1{
+    font-family:lucida;
+    color:#BCBBBB;
+    text-align:right;
+}
+.top h4{
+    color:#747704;
+    text-align:right;
+}
+.top img{
+float:left;
+}
+.one{
+    float:left;
+}
+.two{
+    float:center;
+}
+.three{
+    float: right 500%;
+}
+
+.mid{
+    margin : auto;
+}
